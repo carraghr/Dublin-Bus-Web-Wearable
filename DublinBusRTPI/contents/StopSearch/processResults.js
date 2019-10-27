@@ -34,7 +34,12 @@ function displayResult(results){
 	
 	for(var resultIndex = 0; resultIndex < results.length; resultIndex++){
 		var li = document.createElement("li");
-	  	var text = results[i].route +" : "+ results[i].duetime;
+	  	var text = results[resultIndex].route +" : ";
+	  	if(results[resultIndex].duetime ==="Due"){
+	  		text += results[resultIndex].duetime;
+	  	}else{
+	  		text += results[resultIndex].duetime + " Mins";
+	  	}
 		li.appendChild(document.createTextNode(text));
 		ul.appendChild(li);
     }
