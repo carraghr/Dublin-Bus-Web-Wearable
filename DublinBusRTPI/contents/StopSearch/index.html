@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta name="viewport" content="width=device-width, user-scalable=no">
+	<title>Bus Stop Number Search</title>
+	<link rel="stylesheet" href="lib/tau/wearable/theme/default/tau.min.css">
+	<link rel="stylesheet" media="all and (-tizen-geometric-shape: circle)" href="lib/tau/wearable/theme/default/tau.circle.min.css">
+	<link rel="stylesheet" href="../../css/style.css">
+	<script type="text/javascript" src="../../lib/tau/wearable/js/tau.min.js"></script>
+</head>
+<body>		
+	<div class="ui-page ui-page-active" id="first">
+		<div class="ui-content">		
+			<form action="" onsubmit="return searchStop(event)">
+				<label>Stop Number<input type="text" required/></label>
+				<button id="Submit_id" type="submit">Search</button>
+			</form>
+		</div>
+		<script type="text/javascript" src="search.js"></script>
+	</div>
+</body>
+</html>

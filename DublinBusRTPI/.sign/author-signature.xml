@@ -6,17 +6,37 @@
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
 <DigestValue>QXm/tAqI0ALu3XRsnG7AOVCf0aVQVh3bPVFmF53VvtE=</DigestValue>
 </Reference>
+<Reference URI="contents%2FStopSearch%2FdisplayResults.html">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>ZmmXL1t2EHzUNd0JmEeb1hK7wExoJkh97Y7AEI6oOuY=</DigestValue>
+</Reference>
+<Reference URI="contents%2FStopSearch%2Findex.html">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>FuCdqCj0pp3SOgSogwszx3yayEEbm0FrnK39mQCzZm4=</DigestValue>
+</Reference>
+<Reference URI="contents%2FStopSearch%2FprocessResults.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>PRNhhFD6Lc0QP4UGxcHhNbg3OoTL5yNLN1/qKfaVpU0=</DigestValue>
+</Reference>
+<Reference URI="contents%2FStopSearch%2Fsearch.js">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>CtvdU4JgdOsRtfUOoA0pXG+4/IfXIxKBIUkflpc/23k=</DigestValue>
+</Reference>
 <Reference URI="css%2Fstyle.css">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
 <DigestValue>zZAIh+P4GlT4d5svP2PxBGKqK1UNw13Oma2g1+aPQfg=</DigestValue>
 </Reference>
-<Reference URI="icon.png">
+<Reference URI="icon%20-%20Copy.png">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
 <DigestValue>vPjxjOppORd6hn9Bw4sh06gqtDoJzoFbV/8e9FyIdvk=</DigestValue>
 </Reference>
+<Reference URI="icon.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>iPlyBknWKxMykJDvEBCTtA6NVlF/1oRGXHdu76S22Kw=</DigestValue>
+</Reference>
 <Reference URI="index.html">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>ua4nUX1q/6YALUacYBRoJEAwBZBPG4M+q+vuSfrJfx4=</DigestValue>
+<DigestValue>za0s6KIt1YCwDi9MyJKwX/w4hgByvMN47J+vft3tcGk=</DigestValue>
 </Reference>
 <Reference URI="js%2Fapp.js">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
@@ -1367,11 +1387,11 @@
 </Reference>
 </SignedInfo>
 <SignatureValue>
-qzs6mKBVeraF50kPwKScOH+lLhhszvNYE3+alhS5drYpLtlUb2nsnZdBCUNO1y9/lsfHtENX0bz2
-RYl2yTLEVjtmsb573mPoABI6HI5ki1AeDwM2mj2+gWmIiIyBcX3ecIz1hZu+uDXsW40pZocc3rYm
-ZO41kk2XK53s3A2q8RZZIDwBqv0Yw/Os+6Yz935ZThh0oHm7vc2BOCk/JlpmyDBUlRyur0FB148x
-YUqDOiIIpiIMRcDRFCjvIqEkvb9bWKGUbEpnEVm3F9lNU8KsNXBaPhlppOtZcqzSWNp2HTsbISp3
-NpY1hiqvYuz1Zl3m2D2HXhvGdDm4KOn6TKQGLQ==
+27OrbTpWogkFoJZr5AaKDNeAbJ6lfIGZXRHpHiS3tfJVH3/sDmpa5ojPTdclNqWwqMn8ZulMp0SY
+uuHcbb5r5lOcELtuN0Vssuuw8AySxIPYlSeg4Vh5rIWbD0CcMpAcAVM+2EhaeIqOtACW3fuiRj/G
++Xciv0v5303UskbwU70ycB7HGrsbDtGB+uGDGnH+c34ExDQS2+k9bUp+VdcvwaU6jBosA6e6LIhz
+fTn2ngj5xH3CQkT/T9i2jhH3lXG4NwoAZ0uWGO8ttzQA30CHO2Xafclf9SmKc9Wwl9yFAR8rog5I
+jRk3yhSHutQ51L50ANrD9uNJL0gglizgEk9xag==
 </SignatureValue>
 <KeyInfo>
 <X509Data>
